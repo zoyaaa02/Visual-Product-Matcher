@@ -1,8 +1,8 @@
 fastapi
 uvicorn
-torch
-transformers
+torch==2.0.1+cpu
+transformers==4.31.0
 pillow
 numpy
 requests
-python-multipart 
+python-multipart
